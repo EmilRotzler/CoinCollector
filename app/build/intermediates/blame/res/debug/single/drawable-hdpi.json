@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Emil Rotzler\\AndroidStudioProjects\\CoinCollector\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ghost.png",
+        "source": "C:\\Users\\Emil Rotzler\\AndroidStudioProjects\\CoinCollector\\app\\src\\main\\res\\drawable-hdpi\\ghost.png"
+    },
+    {
+        "merged": "C:\\Users\\Emil Rotzler\\AndroidStudioProjects\\CoinCollector\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pacman.png",
+        "source": "C:\\Users\\Emil Rotzler\\AndroidStudioProjects\\CoinCollector\\app\\src\\main\\res\\drawable-hdpi\\pacman.png"
+    },
+    {
+        "merged": "C:\\Users\\Emil Rotzler\\AndroidStudioProjects\\CoinCollector\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\coin.png",
+        "source": "C:\\Users\\Emil Rotzler\\AndroidStudioProjects\\CoinCollector\\app\\src\\main\\res\\drawable-hdpi\\coin.png"
+    }
+]

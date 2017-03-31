@@ -1,0 +1,59 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Emil Rotzler\AndroidStudioProjects\CoinCollector\app\src\main\AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from C:\Users\Emil Rotzler\AndroidStudioProjects\CoinCollector\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from C:\Users\Emil Rotzler\AndroidStudioProjects\CoinCollector\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Emil Rotzler\AndroidStudioProjects\CoinCollector\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Emil Rotzler\AndroidStudioProjects\CoinCollector\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from C:\Users\Emil Rotzler\AndroidStudioProjects\CoinCollector\app\src\main\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Emil Rotzler\.android\build-cache\4d35bdc3b7b66d356448c708dfe0c795f090c239\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\Emil Rotzler\.android\build-cache\20d99b600e92b76f1cbd410dd6d4160c7518ca06\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Emil Rotzler\.android\build-cache\2a58935517aaa6a49e9e446702efad3a717a6a2e\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Emil Rotzler\.android\build-cache\5e9962995bc42d0f4ba20262c7d1b2290bb30a70\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Emil Rotzler\.android\build-cache\4684e921065b44a9700cf3f70b93e61fc9321167\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Emil Rotzler\.android\build-cache\6113dc7c125fdae8fdc4d2efe030d980d8e42dad\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:25.2.0] C:\Users\Emil Rotzler\.android\build-cache\4d35bdc3b7b66d356448c708dfe0c795f090c239\output\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		ADDED from C:\Users\Emil Rotzler\AndroidStudioProjects\CoinCollector\app\src\main\AndroidManifest.xml:7:9-38
+		INJECTED from C:\Users\Emil Rotzler\AndroidStudioProjects\CoinCollector\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Emil Rotzler\AndroidStudioProjects\CoinCollector\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\Emil Rotzler\AndroidStudioProjects\CoinCollector\app\src\main\AndroidManifest.xml:6:9-35
+		INJECTED from C:\Users\Emil Rotzler\AndroidStudioProjects\CoinCollector\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Emil Rotzler\AndroidStudioProjects\CoinCollector\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\Emil Rotzler\AndroidStudioProjects\CoinCollector\app\src\main\AndroidManifest.xml:9:5-23:19
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Emil Rotzler\.android\build-cache\4d35bdc3b7b66d356448c708dfe0c795f090c239\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\Emil Rotzler\.android\build-cache\20d99b600e92b76f1cbd410dd6d4160c7518ca06\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Emil Rotzler\.android\build-cache\2a58935517aaa6a49e9e446702efad3a717a6a2e\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Emil Rotzler\.android\build-cache\5e9962995bc42d0f4ba20262c7d1b2290bb30a70\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Emil Rotzler\.android\build-cache\4684e921065b44a9700cf3f70b93e61fc9321167\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Emil Rotzler\.android\build-cache\6113dc7c125fdae8fdc4d2efe030d980d8e42dad\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from C:\Users\Emil Rotzler\AndroidStudioProjects\CoinCollector\app\src\main\AndroidManifest.xml:12:9-38
+	android:allowBackup
+		ADDED from C:\Users\Emil Rotzler\AndroidStudioProjects\CoinCollector\app\src\main\AndroidManifest.xml:10:9-35
+	android:icon
+		ADDED from C:\Users\Emil Rotzler\AndroidStudioProjects\CoinCollector\app\src\main\AndroidManifest.xml:11:9-43
+	android:theme
+		ADDED from C:\Users\Emil Rotzler\AndroidStudioProjects\CoinCollector\app\src\main\AndroidManifest.xml:13:9-40
+activity#org.example.canvasdemo.MainActivity
+ADDED from C:\Users\Emil Rotzler\AndroidStudioProjects\CoinCollector\app\src\main\AndroidManifest.xml:14:9-22:20
+	android:label
+		ADDED from C:\Users\Emil Rotzler\AndroidStudioProjects\CoinCollector\app\src\main\AndroidManifest.xml:16:13-42
+	android:name
+		ADDED from C:\Users\Emil Rotzler\AndroidStudioProjects\CoinCollector\app\src\main\AndroidManifest.xml:15:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Emil Rotzler\AndroidStudioProjects\CoinCollector\app\src\main\AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Emil Rotzler\AndroidStudioProjects\CoinCollector\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from C:\Users\Emil Rotzler\AndroidStudioProjects\CoinCollector\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Emil Rotzler\AndroidStudioProjects\CoinCollector\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from C:\Users\Emil Rotzler\AndroidStudioProjects\CoinCollector\app\src\main\AndroidManifest.xml:20:27-74
